@@ -1,0 +1,11 @@
+två kameror
+
+gör om "feeds" till grå skala
+
+kör face rec.
+
+position i bild till vinkel rel. till kamera
+
+position av intersect av kamera-vinklar
+
+position från top-down perspektiv
